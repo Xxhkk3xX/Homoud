@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 <style>
   body {
     font-family: 'Arial', sans-serif;
@@ -64,6 +65,7 @@
   }
 
 </style>
+
 </head>
 <body>
   <h1>Welcome to Our Service Plans</h1>
